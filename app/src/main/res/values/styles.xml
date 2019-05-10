@@ -6,6 +6,20 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:statusBarColor">@color/colorStatusBar</item>
+        <item name="android:windowBackground">@color/colorWindows</item>
+        <item name="android:navigationBarColor">@color/colorNavigation</item>
+        <item name="android:colorForeground">@color/colorForeground</item>
+        <item name="android:colorBackground">@color/colorBackground</item>
+        <item name="colorControlNormal">@color/colorControlNormal</item>
+        <item name="colorControlHighlight">@color/colorControlHighlight</item>
+        <item name="colorControlActivated">@color/colorControlActivated</item>
+        <item name="android:colorButtonNormal">@color/colorButtonNormal</item>
+        <item name="android:editTextColor">@color/colorEditText</item>
+        <item name="android:textColor">@color/colorText</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/colorTextPrimaryDisableOnly</item>
+        <item name="android:textColorPrimary">@color/colorTextPrimary</item>
+        <item name="colorSwitchThumbNormal">@color/colorSwitchThumbNormal</item>
     </style>
 
 </resources>
